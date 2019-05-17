@@ -1,0 +1,10 @@
+INSERT INTO public.pais (id_pais, pais) VALUES (1, 'colombia');
+INSERT INTO public.pais (id_pais, pais) VALUES (2, 'argentina');
+INSERT INTO public.pais (id_pais, pais) VALUES (3, 'uruguay');
+INSERT INTO public.pais (id_pais, pais) VALUES (4, 'wakanda');
+INSERT INTO public.pais (id_pais, pais) VALUES (5, 'venezuela');
+INSERT INTO public.pais (id_pais, pais) VALUES (6, 'australia');
+INSERT INTO public.pais (id_pais, pais) VALUES (7, 'brasil');
+INSERT INTO public.pais (id_pais, pais) VALUES (8, 'españa');
+INSERT INTO public.pais (id_pais, pais) VALUES (9, 'holanda');
+INSERT INTO public.pais (id_pais, pais) VALUES (10, 'polonia');
